@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Mini Croissants",
+        "description": "Bite size croissants perfect for nibbles or to stare at.",
+        "price": 2.99,
+        "calories": 100,
+        "image": "images/mini.jpeg",
+        "nuts": false,
+        "dairy": true
+    },
+    {
+        "name": "Oatmeal Raisin Cookie",
+        "description": "Thicc, chewy cookie filled with oatmeal, raisins, and walnuts.",
+        "price": 2.50,
+        "calories": 250,
+        "image": "images/oatmeal.jpeg",
+        "nuts": true,
+        "dairy": true
+    },
+    {
+        "name": "Peanut Butter Chocolate Babka",
+        "description": "Loaf of brioche bread filled with savory peanut butter and chocolate.",
+        "price": 7.99,
+        "calories": 1000,
+        "image": "images/babka.jpeg",
+        "nuts": true,
+        "dairy": true
+    },
+    {
+        "name": "Peanut Butter Chocolate Cookie",
+        "description": "Warm, gooey chocolate cookie filled with Reeses pieces.",
+        "price": 2.50,
+        "calories": 300,
+        "image": "images/PBchocolate.jpeg",
+        "nuts": true,
+        "dairy": true
+    },
+    {
+        "name": "Peanut Butter Cruffin",
+        "description": "Cruffin that is filled with a peanut butter cream and coated in sugar.",
+        "price": 5.99,
+        "calories": 420,
+        "image": "images/PBcruffin.jpeg",
+        "nuts": true,
+        "dairy": true
+    },
+    {
+        "name": "Purple Sweet Potato Sourdough",
+        "description": "Sourdough loaf that is laminated with purple sweet potato, cranberries, and walnuts.",
+        "price": 8.99,
+        "calories": 1500,
+        "image": "images/purple.jpeg",
+        "nuts": true,
+        "dairy": false
+    },
+    {
+        "name": "S'mores Sourdough",
+        "description": "Sourdough loaf that is laminated with dark chocolate and graham crackers. Finished and toasted with marshmallow fluff and more chocolate.",
+        "price": 9.99,
+        "calories": 2000,
+        "image": "images/smores.jpeg",
+        "nuts": false,
+        "dairy": false
+    },
+    {
+        "name": "Apple Tart",
+        "description": "Shareable apple tart that packs a sweet, cinnamon flavor.",
+        "price": 6.99,
+        "calories": 750,
+        "image": "images/apple.jpeg",
+        "nuts": false,
+        "dairy": true
+    },
+    {
+        "name": "Blueberry Cruffin",
+        "description": "Bicolor cruffin that is filled with homemade blueberry jam and coated in sugar.",
+        "price": 5.99,
+        "calories": 400,
+        "image": "images/blueberry.jpeg",
+        "nuts": false,
+        "dairy": true
+    },
+    {
+        "name": "Chocolate Cookie",
+        "description": "For those that prefer a thinner cookie. Large, chewy cookie filled with dark chocolate.",
+        "price": 1.99,
+        "calories": 250,
+        "image": "images/chocolate.jpeg",
+        "nuts": false,
+        "dairy": true
+    },
+    {
+        "name": "Cinnamon Cruffin",
+        "description": "Cruffin that is coated in an addictive cinnamon sugar.",
+        "price": 5.50,
+        "calories": 375,
+        "image": "images/cinnamon.jpeg",
+        "nuts": false,
+        "dairy": true
+    },
+    {
+        "name": "Country Sourdough",
+        "description": "Whole wheat and bread flour based sourdough. Perfect for any occasion.",
+        "price": 7.99,
+        "calories": 1200,
+        "image": "images/country.jpeg",
+        "nuts": false,
+        "dairy": false
+    }
+]
