@@ -75,6 +75,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to my bakery!</h1>
+      <h3>Enjoy exploring some of my favorite creations :)</h3>
 
       <div className="Cart">
         <br></br>
@@ -96,19 +97,12 @@ function App() {
         <br></br>
       </div>
 
-      <div className="rules">
 
-        <div className="pastry">
-          <h3>Sort by</h3>
-          <SS chex={chex} changeChex={changeChex}></SS>
-        </div>
-
-        <div className="pastry">
-          <h3>Filter by</h3>
-
-        </div>
-
+      <div className="pastry">
+        <h3>Sort by</h3>
+        <SS chex={chex} changeChex={changeChex}></SS>
       </div>
+
 
       <div className="bread">
         {l.map((item, index) => (

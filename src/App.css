@@ -8,20 +8,6 @@ button {
   text-align: center;
 }
 
-/* .pastry {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-around;
-} */
-
-.rules {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-evenly;
-}
-
 .bread {
   display: flex;
   flex-wrap: wrap;
@@ -49,11 +35,3 @@ button {
   justify-content: center;
   padding: 5px;
 }
-
-/* .SS {
-  display: block;
-  max-width: 28%;
-  margin: 10px;
-  padding: 10px;
-  justify-content: center;
-} */
