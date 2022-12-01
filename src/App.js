@@ -40,18 +40,14 @@ function SS(props) {
 function App() {
   const [l, pushL] = useState(bakeryInfo); // sort
   const [chex, pushChex] = useState(false);
-  const [count, pushCount] = useState(true);
   const changeChex = () => {
     let peach = JSON.parse(JSON.stringify(l));;
     pushChex(!chex);
-    pushCount(!count);
-    if (chex === count) {
+    if (chex) {
       pushL(copyInfo);
-      pushCount(count);
     } else {
       peach.sort((a, b) => (a.calories < b.calories) ? 1 : -1)
       pushL(peach);
-      pushCount(count);
     }
   };
 
